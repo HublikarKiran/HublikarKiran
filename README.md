@@ -1,3 +1,6 @@
+<p align="center" >
+  <img src="https://github.com/HublikarKiran/HublikarKiran/blob/main/Linkedin-banner.png" />
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=550&lines=Hi%2C+I'm+Hublikar+Kiran+Kumar;IT+Trainer+%7C+Support+Developer+%7C+Tech+Mentor;Lifelong+Learner+%7C+Innovator+%7C+Mentor" alt="Typing SVG" />
