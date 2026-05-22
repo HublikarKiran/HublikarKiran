@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 💼 Working as an **IT Trainer, Support Developer, and Tech Mentor**  
+- 💼 Working as an **IT Trainer, Developer, and Tech Mentor**  
 - 🌱 Passionate about **training, mentoring, and building scalable tech solutions**  
 - 💡 Exploring **AI, Microservices, and Cloud Technologies**  
 - ✨ Motto: *"Keep learning, keep innovating!"*
